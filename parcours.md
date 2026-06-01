@@ -13,18 +13,20 @@ robots: noindex
 **Unilasalle Amiens**
 
 Elève en Bachelor Ingénierie Numérique 
-* Cours : préciser les cours en phase avec le poste visé
+* Cours : flux de gestion et production / performance
+économique / prototypage / Fabrication Additive /
+Programmation C, Python / Traitement d’images /
+Robotique / Automatisme / Systèmes numériques / 
+programmation / cybersécurité /gestion de production 
+/ maintenance industrielle / data analyse /modélisation
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac Général spécialité SVT (science et vie de la Terre) et NSI (numérique science informatique), mention assez bien, Lycée Lamarck Albert
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024-2026` **Projet d’étude**
 
 _Réalisé en équipe de XX étudiants_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
