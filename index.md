@@ -9,15 +9,13 @@ hero_image_ratio: is-1by1
 robots: noindex 
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Corentin TITRANT
+Elève en 2ème année de bachelor numérique
 
 
-Disponible XX mois à partir de Date
+Disponible 2mois dès maintenant et 1 an à partir de septembre pour une alternance 
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[E-Mail : corentin.titrant@gmail.com](mailto:corentin.titrant@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
-
-Permis B, voiture
+[LinkedIn](https://www.linkedin.com/in/corentin-titrant-18065634b/)
 

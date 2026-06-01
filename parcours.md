@@ -9,10 +9,10 @@ robots: noindex
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2027`
+**Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève en Bachelor Ingénierie Numérique 
 * Cours : préciser les cours en phase avec le poste visé
 
 `20XX – 20XX`
