@@ -28,43 +28,67 @@ Bac Général spécialité SVT (science et vie de la Terre) et NSI (numérique s
 
 `2024-2026` **Projet d’étude**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 2 étudiants 
+* Projet en C / Projet en Python
+(Création jeu du combat des
+animaux, Motus)
+* Projet en électronique (Création
+robot suiveur de ligne)
+* Projet en fabrication additive
+(Création d’un mini bateau)
+* Modélisation 3D de pièces
+d’échecs et fabrication d’une boîte
+de rangement en bois découpée
+au laser, avec mousse intérieure
+fraisée.
+* Conception d’un site web intégrant
+des visualisations graphiques pour
+l’analyse de données structurées.
+* Création d’un site e-commerce
+fictif relié à une base de données
+(gestion du catalogue produits,
+interface utilisateur)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2025` **Assistant Montage / Contrôle qualité - Stage (2 mois) Douce Hydro, Albert**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage Ouvrier
+* Participation au contrôle qualité de composants de vérins hydrauliques (vérification visuelle et conformité aux plans).
+* Assistance aux essais et tests d’équipements hydrauliques.
+* Aide au montage et à l’assemblage de pièces mécaniques.
+* Préparation et organisation des pièces et outils nécessaires au montage.
+* Préparation et peinture industrielle de certaines pièces (préparation des
+surfaces, application de peinture).
 
-`20XX` **Association, description de l’asso., taille**
+`2026` **Stage de mobilité internationale en Allemagne (2mois) à SOUTH
+WESTPHALIA UNIVERSITY OF APPLIED SCIENCES, Université**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage Intertionnale 
+*  Réalisation d’un montage électronique basé sur une Raspberry Pi
+* Câblage des broches GPIO sur une plaque d’expérimentation et
+connexion de boutons poussoirs.
+* Intégration et connexion d’une matrice de LED pour l’affichage.
+* Mise en œuvre et test d’un programme permettant de contrôler un jeu
+Snake via les boutons.
+* Utilisation de pièces imprimées en 3D pour concevoir et assembler le
+boîtier de la mini-console
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais : B1+ 
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
-
-Autres
-* Autres diplômes ou permis spéciaux
+* Word
+* Excel
+* Power BI
 
 ## Centres d’intérêt
 
 Loisirs 1
-* Description 
-* Description 
+* Jeux de stratégie 
+* Jeux comme League of Legends ou les Echecs qui pousse à une réflexion à long termes et à la prise de décision  
 
-Loisirs 1
-* Description 
-* Description 
+Loisirs 2
+* Sport  
+* Joue au Volleyball à l'association du BDS (Bureau des sports) 
