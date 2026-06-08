@@ -1,6 +1,6 @@
 ---
 title: Projet 1
-subtitle: Projet informatique
+subtitle: Projet Electronique 
 description: Description du projet 1
 layout: product
 image: https://www.usinenouvelle.com/expo/img/carte-electronique-e680-007737430-product_zoom.jpg
